@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ecua AMOR</title>
+<style>
+body{margin:0;font-family:Arial;background:#fff;text-align:center}
+h1{color:#e87da0;margin-top:30px}
+.logo{font-size:80px}
+input{padding:15px;border:2px solid #e87da0;border-radius:20px;width:80%;font-size:18px;margin-top:20px}
+button{background:#e87da0;color:white;padding:15px 30px;border:none;border-radius:30px;font-size:18px;margin-top:20px;width:85%}
+.card{border:1px solid #eee;margin:15px;padding:15px;border-radius:20px;text-align:left}
+</style>
+</head>
+<body>
+<div class="logo">💖</div>
+<h1>Ecua AMOR</h1>
+<p>App de citas 100% Guinea Ecuatorial</p>
+<p>Verifica tu numero +240</p>
+<input placeholder="+240 222 123 456">
+<button onclick="alert('Codigo enviado! Ya eres parte de Ecua AMOR')">Enviar codigo SMS</button>
+<div style="text-align:left;padding:10px">
+<h3>Gente cerca - Malabo</h3>
+<div class="card">💃 Ana, 24 - Malabo - 2km</div>
+<div class="card">🕺 Carlos, 27 - Bata - 5km</div>
+<div class="card">✨ Pelagia, 22 - Mongomo</div>
+</div>
+</body>
+</html>
